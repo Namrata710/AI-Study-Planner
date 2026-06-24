@@ -19,3 +19,12 @@ Express.js
 MongoDB
 Python
 Machine Learning
+
+Project Architecture
+Frontend (React)
+        ↓
+Backend (Node.js)
+        ↓
+Database (MongoDB)
+        ↓
+AI Recommendation Engine
